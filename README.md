@@ -1,16 +1,10 @@
 # travel_app_assignment
 
-A new Flutter project.
+This App is developved with this figma reference : 
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/90235875/217059635-4acc8ecb-3f07-4941-919e-17a0bf953df1.png" width="400" height="400" />
 
-This project is a starting point for a Flutter application.
+# the developed app :
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/90235875/217059616-9a473a57-8dd2-4978-bb03-9f697929d552.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
